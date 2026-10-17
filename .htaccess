@@ -1,0 +1,5 @@
+AuthUserFile /home/users/1/hungry.jp-emptycolours/web/members/.htpasswd
+AuthGroupFile /dev/null
+AuthName "会員用サーバー「members」：アクセス制限中"
+AuthType Basic
+require valid-user
